@@ -1,0 +1,20 @@
+{
+  "name": "pino-windows-event-logger-transport",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": {
+    "name": "José Silva Jr.",
+    "email": "jsilva574@outlook.com"
+  },
+  "repository": {
+    "url": "https://github.com/jsilva74/pino-windows-event-logger-transport"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-windows": "1.0.0-beta.8",
+    "pino-abstract-transport": "^1.1.0"
+  }
+}
